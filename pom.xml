@@ -16,6 +16,9 @@
 		<module>ajiang-product</module>
 		<module>ajiang-ware</module>
 		<module>ajiang-coupon</module>
+		<module>renren-fast</module>
+		<module>renren-generator</module>
+		<module>ajiangmall-common</module>
 	</modules>
 
 </project>
