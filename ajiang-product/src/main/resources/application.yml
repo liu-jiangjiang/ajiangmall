@@ -6,6 +6,12 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
   jackson:
     date-format: yyyy-MM-dd HH:mm:ss
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 120.79.194.119:8848
+  application:
+    name: ajiang-product
 
 
 mybatis-plus:
@@ -16,7 +22,7 @@ mybatis-plus:
       logic-delete-value: 1
       logic-not-delete-value: 0
 server:
-  port: 10000
+  port: 10001
 logging:
   level:
     com.ajiang.ajiangmall: debug

@@ -19,6 +19,7 @@
 		<module>renren-fast</module>
 		<module>renren-generator</module>
 		<module>ajiangmall-common</module>
+		<module>ajiang-gateway</module>
 	</modules>
 
 </project>

@@ -6,6 +6,13 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
   jackson:
     date-format: yyyy-MM-dd HH:mm:ss
+#  cloud:
+#    nacos:
+#      discovery:
+#        server-addr: 120.79.194.119:8848
+#  application:
+#    name: ajiang-ware
+
 
 
 mybatis-plus:
